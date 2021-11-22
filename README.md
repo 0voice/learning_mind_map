@@ -14,6 +14,10 @@
 
 ## 🍘 计算机
 
+[计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
+
+[计算机网络](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf)
+
 ## 🍚 C/C++
 
 ## 🍛 Golang
