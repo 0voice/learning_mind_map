@@ -77,6 +77,8 @@
 
 * [Linux](https://github.com/0voice/learning_mind_map/blob/main/Linux.pdf)
 
+* [Linux内核知识体系](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%86%85%E6%A0%B8%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.md)
+
 * [Linux基本命令集](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4%E9%9B%86.pdf)
 
 * [Linux学习](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%AD%A6%E4%B9%A0.pdf)
