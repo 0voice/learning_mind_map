@@ -16,9 +16,9 @@
 
 所谓取之于互联网，用之于互联网。
 
-如果涉及版权侵犯，请邮件至wchao_isvip@163.com，我们将第一时间处理。
+如果涉及版权侵犯，请邮件至 wchao_isvip@163.com ，我们将第一时间处理。
 
-如果您对我们的项目表示赞同与支持，欢迎您[lssued](https://github.com/0voice/learning_mind_map/issues)我们，或者邮件wchao_isvip@163.com我们。感谢您的支持！
+如果您对我们的项目表示赞同与支持，欢迎您 [lssued](https://github.com/0voice/learning_mind_map/issues) 我们，或者邮件 wchao_isvip@163.com 我们。感谢您的支持！
 
 ## 🍘 计算机
 
