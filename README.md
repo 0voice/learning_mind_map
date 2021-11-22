@@ -33,14 +33,54 @@
 
 * [计算机网络](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf)
 
+* [网络编程（Socket）](https://github.com/0voice/learning_mind_map/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%EF%BC%88Socket%EF%BC%89.pdf)
+
+* [数据链路层](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82.pdf)
+
+* [物理层](https://github.com/0voice/learning_mind_map/blob/main/%E7%89%A9%E7%90%86%E5%B1%82.pdf)
+
+* [传输层](https://github.com/0voice/learning_mind_map/blob/main/%E4%BC%A0%E8%BE%93%E5%B1%82.pdf)
+
+* [TCP/IP](https://github.com/0voice/learning_mind_map/blob/main/TCP_IP.pdf)
+
+
+
 
 
 ## 🍚 C/C++
+
+* [C++从入门到精通](https://github.com/0voice/learning_mind_map/blob/main/C%2B%2B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf)
+
+
+* [数据结构与算法内容梳理](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%86%85%E5%AE%B9%E6%A2%B3%E7%90%86.pdf)
+
+* [数据结构概述](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%A6%82%E8%BF%B0.pdf)
+
+* [调度与死锁](https://github.com/0voice/learning_mind_map/blob/main/%E8%B0%83%E5%BA%A6%E4%B8%8E%E6%AD%BB%E9%94%81.pdf)
+
+* [面向对象编程](https://github.com/0voice/learning_mind_map/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.pdf)
+
+* [分布式锁实现方式](https://github.com/0voice/learning_mind_map/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F.pdf)
+
+* [mysql性能调优思路](https://github.com/0voice/learning_mind_map/blob/main/mysql%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%80%9D%E8%B7%AF.pdf)
+
+* [Redis](https://github.com/0voice/learning_mind_map/blob/main/Redis.pdf)
+
+* [Nginx知识点](https://github.com/0voice/learning_mind_map/blob/main/Nginx%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
+
 
 ## 🍛 Golang
 
 ## 🍜 DPDK
 
 ## 🍝 Linux
+
+* [Linux](https://github.com/0voice/learning_mind_map/blob/main/Linux.pdf)
+
+* [Linux基本命令集](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4%E9%9B%86.pdf)
+
+* [Linux学习](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%AD%A6%E4%B9%A0.pdf)
+
+* [操作系统](https://github.com/0voice/learning_mind_map/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)
 
 ## 🥡 音视频开发
