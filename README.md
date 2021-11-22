@@ -22,6 +22,11 @@
 
 感谢您的支持！
 
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/PDF下载-blueviolet" alt=""></a>
+  <a href=""><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
+</p>
+
 ## 🍘 计算机
 
 * [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
