@@ -16,10 +16,8 @@
 
 ## Golang
 
-## 音视频开发
-
 ## DPDK
 
-## Linux内核
-
 ## Linux
+
+## 音视频开发
