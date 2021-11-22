@@ -23,7 +23,7 @@
 感谢您的支持！
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/PDF下载-blueviolet" alt=""></a>
+  <a href="https://github.com/0voice/learning_mind_map/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/PDF下载-blueviolet" alt=""></a>
   <a href=""><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
 </p>
 
