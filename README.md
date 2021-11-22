@@ -18,6 +18,8 @@
 
 如果涉及版权侵犯，请邮件至wchao_isvip@163.com，我们将第一时间处理。
 
+如果您对我们的项目表示赞同与支持，欢迎您[lssued](https://github.com/0voice/learning_mind_map/issues)我们，或者邮件wchao_isvip@163.com我们。感谢您的支持！
+
 ## 🍘 计算机
 
 * [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
