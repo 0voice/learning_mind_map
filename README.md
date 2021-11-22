@@ -12,6 +12,9 @@
   
 </div>
 
+本repo为涉及C/C++语言的技术点，整理网络中大家归纳总结的【思维导图】，帮助大家更好的整理学习的思路以及知识重点，所有导图来源于互联网，所谓取之于互联网，用之于互联网。
+如果涉及版权侵犯，请邮件至wchao_isbip@163.com。我们将第一时间处理。
+
 ## 🍘 计算机
 
 * [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
