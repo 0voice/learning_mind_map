@@ -14,9 +14,13 @@
 
 ## 🍘 计算机
 
-[计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
+* [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
 
-[计算机网络](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf)
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/87457873/142832145-2abf5a7c-67f3-4267-973f-1109a5dea077.png"/>
+
+* [计算机网络](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf)
+
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/87457873/142832366-8cb98e66-9fa1-47fe-b7b5-48b875083d93.png"/>
 
 ## 🍚 C/C++
 
