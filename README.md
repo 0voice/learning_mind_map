@@ -1,4 +1,4 @@
-# 🎁 2021年【思维导图】盒子，c++服务器，音视频开发，golang，dpdk网络开发，linux内核，c++项目思维导图
+# 🍱 “干饭人” --- 2021年【思维导图】盒子，c++服务器，音视频开发，golang，dpdk网络开发，linux内核，c++项目思维导图
 
 <div align=center>
   
@@ -12,12 +12,12 @@
   
 </div>
 
-## 🍇 C/C++
+## 🍚 C/C++
 
-## 🍈 Golang
+## 🍛 Golang
 
-## 🍉 DPDK
+## 🍜 DPDK
 
-## 🍊 Linux
+## 🍝 Linux
 
-## 🍋 音视频开发
+## 🥡 音视频开发
