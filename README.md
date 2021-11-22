@@ -12,12 +12,12 @@
   
 </div>
 
-## C/C++
+## 🍇 C/C++
 
-## Golang
+## 🍈 Golang
 
-## DPDK
+## 🍉 DPDK
 
-## Linux
+## 🍊 Linux
 
-## 音视频开发
+## 🍋 音视频开发
