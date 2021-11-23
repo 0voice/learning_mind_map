@@ -86,6 +86,12 @@
 
 * [操作系统](https://github.com/0voice/learning_mind_map/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)
 
+* [Linux入门](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%85%A5%E9%97%A8.png)
+
+* [Linux内核源码分析](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.png)
+
+* [linux编程入门项目](https://github.com/0voice/learning_mind_map/blob/main/linux%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E9%A1%B9%E7%9B%AE.png)
+
 ## 🥡 音视频开发
 
 * [音视频流媒体开发知识归纳导图](https://github.com/0voice/learning_mind_map/blob/main/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%BD%92%E7%BA%B3%E5%AF%BC%E5%9B%BE.png)
