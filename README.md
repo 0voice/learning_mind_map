@@ -74,6 +74,8 @@
 
 ## 🍜 DPDK
 
+* [DPDK架构图](https://github.com/0voice/learning_mind_map/blob/main/DPDK%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
+
 ## 🍝 Linux
 
 * [Linux](https://github.com/0voice/learning_mind_map/blob/main/Linux.pdf)
