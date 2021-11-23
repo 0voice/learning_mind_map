@@ -67,6 +67,9 @@
 
 * [Nginx知识点](https://github.com/0voice/learning_mind_map/blob/main/Nginx%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
 
+* [数据库系统](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F.png)
+
+* [SQL数据库基础知识（SQL Server）](https://github.com/0voice/learning_mind_map/blob/main/SQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%EF%BC%88SQL%20Server%EF%BC%89.pdf)
 
 ## 🍛 Golang
 
@@ -93,6 +96,9 @@
 * [Linux内核源码分析](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.png)
 
 * [linux编程入门项目](https://github.com/0voice/learning_mind_map/blob/main/linux%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E9%A1%B9%E7%9B%AE.png)
+
+* [Linux常用操作](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.pdf)
+
 
 ## 🥡 音视频开发
 
