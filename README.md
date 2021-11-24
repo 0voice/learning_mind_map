@@ -39,6 +39,10 @@
   
 <br>  
 
+## 🔍 [【查漏补缺】晋升 Linux C/C++后端服务器架构开发 岗位，你还需要掌握哪些？](https://github.com/0voice/learning_mind_map/blob/main/Linux%20C_C%2B%2B%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E6%9E%84%E5%BC%80%E5%8F%91.pdf)
+
+<br>  
+
 ## 🍘 计算机
 
 * [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
@@ -152,6 +156,8 @@
 ## 🍜 DPDK
 
 * [DPDK架构图](https://github.com/0voice/learning_mind_map/blob/main/DPDK%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
+
+* [Dpdk-网络协议栈-vpp-OvS-DDos-虚拟化专家之路](https://github.com/0voice/learning_mind_map/blob/main/dpdk-%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%A0%88-vpp-OvS-DDos-%E8%99%9A%E6%8B%9F%E5%8C%96%E4%B8%93%E5%AE%B6%E4%B9%8B%E8%B7%AF.pdf)
 
 ## 🍝 Linux
 
