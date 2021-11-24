@@ -30,12 +30,23 @@
 ## 🍘 计算机
 
 * [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
+* [计算机系统基础](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80.pdf)
 
 * [计算机组成与系统结构](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84.pdf)
 
 * [计算机组成原理](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.pdf)
 
 * [计算机网络](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf)
+
+* [计算机网络 第一章](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20%E7%AC%AC%E4%B8%80%E7%AB%A0.pdf)
+
+* [计算机网络 第二章](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20%E7%AC%AC%E4%BA%8C%E7%AB%A0%E2%80%8B.pdf)
+
+* [计算机网络 第三章](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20%E7%AC%AC%E4%B8%89%E7%AB%A0%E2%80%8B.pdf)
+
+* [计算机网络 第四章](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20%E7%AC%AC%E5%9B%9B%E7%AB%A0%E2%80%8B.pdf)
+
+* [计算机网络 第五章](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20%E7%AC%AC%E4%BA%94%E7%AB%A0%E2%80%8B.pdf)
 
 * [网络编程（Socket）](https://github.com/0voice/learning_mind_map/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%EF%BC%88Socket%EF%BC%89.pdf)
 
@@ -47,10 +58,14 @@
 
 * [TCP/IP](https://github.com/0voice/learning_mind_map/blob/main/TCP_IP.pdf)
 
+* [IPC](https://github.com/0voice/learning_mind_map/blob/main/IPC.pdf)
+
 
 ## 🍚 C/C++ 服务器高级架构
 
 * [C++从入门到精通](https://github.com/0voice/learning_mind_map/blob/main/C%2B%2B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf)
+
+* [C++面向对象](https://github.com/0voice/learning_mind_map/blob/main/C%2B%2B%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.pdf)
 
 * [数据结构与算法内容梳理](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%86%85%E5%AE%B9%E6%A2%B3%E7%90%86.pdf)
 
@@ -60,7 +75,21 @@
 
 * [面向对象编程](https://github.com/0voice/learning_mind_map/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.pdf)
 
+* [线程](https://github.com/0voice/learning_mind_map/blob/main/%E7%BA%BF%E7%A8%8B.pdf)
+
+* [线程同步](https://github.com/0voice/learning_mind_map/blob/main/%E7%BA%BF%E7%A8%8B%E5%90%8C%E6%AD%A5.pdf)
+
+* [分布式事务](https://github.com/0voice/learning_mind_map/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.pdf)
+
+* [分布式协议与算法](https://github.com/0voice/learning_mind_map/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E5%8D%8F%E8%AE%AE%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)
+
 * [分布式锁实现方式](https://github.com/0voice/learning_mind_map/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F.pdf)
+
+* [socket编程](https://github.com/0voice/learning_mind_map/blob/main/socket%E7%BC%96%E7%A8%8B.pdf)
+
+* [传输层协议之TCP](https://github.com/0voice/learning_mind_map/blob/main/%E4%BC%A0%E8%BE%93%E5%B1%82%E5%8D%8F%E8%AE%AE%E4%B9%8BTCP.pdf)
+
+* [多路IO复用](https://github.com/0voice/learning_mind_map/blob/main/%E5%A4%9A%E8%B7%AFIO%E5%A4%8D%E7%94%A8.pdf)
 
 ## 🍛 Golang
 
@@ -77,11 +106,21 @@
 
 * [数据库系统](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F.png)
 
+* [MySQL知识点归纳](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.pdf)
+
+* [MySQL索引](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E7%B4%A2%E5%BC%95.pdf)
+
 * [Mysql性能调优思路](https://github.com/0voice/learning_mind_map/blob/main/mysql%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%80%9D%E8%B7%AF.pdf)
 
 * [MySQL全面优化思路](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E5%85%A8%E9%9D%A2%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF.pdf)
 
+* [Innodb的整体架构图](https://github.com/0voice/learning_mind_map/blob/main/Innodb%E7%9A%84%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E5%9B%BE.pdf)
+
 * [Redis基础](https://github.com/0voice/learning_mind_map/blob/main/Redis.pdf)
+
+* [Redis知识点归纳](https://github.com/0voice/learning_mind_map/blob/main/Redis%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.pdf)
+
+* [Redis数据类型归纳](https://github.com/0voice/learning_mind_map/blob/main/Redis%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%BD%92%E7%BA%B3.pdf)
 
 * [Redis知识点](https://github.com/0voice/learning_mind_map/blob/main/Redis%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
 
@@ -92,7 +131,11 @@
 
 * [Nginx知识点](https://github.com/0voice/learning_mind_map/blob/main/Nginx%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
 
+* [Nginx实战操作](https://github.com/0voice/learning_mind_map/blob/main/Nginx%E5%AE%9E%E6%88%98%E6%93%8D%E4%BD%9C.pdf)
+
 * [高吞吐消息中间件 Kafka](https://github.com/0voice/learning_mind_map/blob/main/%E9%AB%98%E5%90%9E%E5%90%90%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%20Kafka.pdf)
+
+* [Zookeeper知识点归纳](https://github.com/0voice/learning_mind_map/blob/main/Zookeeper%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.pdf)
 
 ## 🍜 DPDK
 
@@ -125,9 +168,22 @@
 
 ## 🥮 云原生
 
+* [Docker知识点归纳](https://github.com/0voice/learning_mind_map/blob/main/Docker%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
+
 * [Docker命令](https://github.com/0voice/learning_mind_map/blob/main/Docker%E5%91%BD%E4%BB%A4.pdf)
 
 * [Kubernetes知识点](https://github.com/0voice/learning_mind_map/blob/main/Kubernetes.pdf)
 
+* [Kubernetes知识点归纳](https://github.com/0voice/learning_mind_map/blob/main/Kubernetes%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.pdf)
+
+* [Kubernetes核心组件运行机制](https://github.com/0voice/learning_mind_map/blob/main/Kubernetes%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6.pdf)
+
+* [深入分析集群安全机制](https://github.com/0voice/learning_mind_map/blob/main/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90%E9%9B%86%E7%BE%A4%E5%AE%89%E5%85%A8%E6%9C%BA%E5%88%B6.pdf)
+
+* [深入理解Pod](https://github.com/0voice/learning_mind_map/blob/main/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Pod.pdf)
+
+* [深入理解Service](https://github.com/0voice/learning_mind_map/blob/main/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Service.pdf)
+
 * [Kubetcl命令](https://github.com/0voice/learning_mind_map/blob/main/Kubetcl%E5%91%BD%E4%BB%A4.pdf)
+
 
