@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/0voice/learning_mind_map/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/PDF下载-blueviolet" alt=""></a>
-  <a href=""><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
+  <a href="https://github.com/0voice/learning_mind_map/blob/main/README.md#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F"><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
 </p>
 
 ## 🍘 计算机
