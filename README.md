@@ -27,6 +27,18 @@
   <a href="https://github.com/0voice/learning_mind_map/blob/main/README.md#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F"><img src="https://img.shields.io/badge/微信公众号-green" alt=""></a>
 </p>
 
+<div align=center>
+  
+<br>  
+  
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/87457873/143252350-0c0078b1-c474-4ab1-ab0e-edfdc1a0bbda.jpg"/>
+  
+## —— 登顶IT顶峰，不是梦！
+  
+</div>  
+  
+<br>  
+
 ## 🍘 计算机
 
 * [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
