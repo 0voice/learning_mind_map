@@ -1,4 +1,4 @@
-# 🍱 “干饭人” --- 2021年【思维导图】盒子，C/C++，Golang，Linux，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等等
+# 🍱 “干饭人” --- 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等等
 
 <div align=center>
   
