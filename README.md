@@ -33,7 +33,7 @@
   
 <img width="30%" height="30%" src="https://user-images.githubusercontent.com/87457873/143252350-0c0078b1-c474-4ab1-ab0e-edfdc1a0bbda.jpg"/>
   
-## —— 登顶IT顶峰，不是梦！
+## —— 登顶 IT 顶峰，不是梦！
   
 </div>  
   
