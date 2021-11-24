@@ -31,6 +31,10 @@
 
 * [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
 
+* [计算机组成与系统结构](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84.pdf)
+
+* [计算机组成原理](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.pdf)
+
 * [计算机网络](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf)
 
 * [网络编程（Socket）](https://github.com/0voice/learning_mind_map/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%EF%BC%88Socket%EF%BC%89.pdf)
@@ -42,9 +46,6 @@
 * [传输层](https://github.com/0voice/learning_mind_map/blob/main/%E4%BC%A0%E8%BE%93%E5%B1%82.pdf)
 
 * [TCP/IP](https://github.com/0voice/learning_mind_map/blob/main/TCP_IP.pdf)
-
-
-
 
 
 ## 🍚 C/C++
@@ -61,19 +62,37 @@
 
 * [分布式锁实现方式](https://github.com/0voice/learning_mind_map/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F.pdf)
 
-* [mysql性能调优思路](https://github.com/0voice/learning_mind_map/blob/main/mysql%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%80%9D%E8%B7%AF.pdf)
+## 🍛 Golang
 
-* [Redis](https://github.com/0voice/learning_mind_map/blob/main/Redis.pdf)
+* [Golang基础](https://github.com/0voice/learning_mind_map/blob/main/Golang%E5%9F%BA%E7%A1%80.pdf)
 
-* [Nginx知识点](https://github.com/0voice/learning_mind_map/blob/main/Nginx%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
+* [用Golang开发后台掌握哪些知识点](https://github.com/0voice/learning_mind_map/blob/main/%E7%94%A8Golang%E5%BC%80%E5%8F%91%E5%90%8E%E5%8F%B0%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
-* [数据库系统](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F.png)
+
+## 🍥 数据库
+
+* [SQL基础](https://github.com/0voice/learning_mind_map/blob/main/SQL.pdf)
 
 * [SQL数据库基础知识（SQL Server）](https://github.com/0voice/learning_mind_map/blob/main/SQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%EF%BC%88SQL%20Server%EF%BC%89.pdf)
 
-## 🍛 Golang
+* [数据库系统](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F.png)
 
-* [用Golang开发后台掌握哪些知识点](https://github.com/0voice/learning_mind_map/blob/main/%E7%94%A8Golang%E5%BC%80%E5%8F%91%E5%90%8E%E5%8F%B0%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+* [Mysql性能调优思路](https://github.com/0voice/learning_mind_map/blob/main/mysql%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%80%9D%E8%B7%AF.pdf)
+
+* [MySQL全面优化思路](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E5%85%A8%E9%9D%A2%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF.pdf)
+
+* [Redis基础](https://github.com/0voice/learning_mind_map/blob/main/Redis.pdf)
+
+* [Redis知识点](https://github.com/0voice/learning_mind_map/blob/main/Redis%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
+
+* [Redis高性能分布式缓存](https://github.com/0voice/learning_mind_map/blob/main/%E9%AB%98%E6%80%A7%E8%83%BD%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98%20Redis.pdf)
+
+
+## 🍣 中间件
+
+* [Nginx知识点](https://github.com/0voice/learning_mind_map/blob/main/Nginx%E7%9F%A5%E8%AF%86%E7%82%B9.pdf)
+
+* [高吞吐消息中间件 Kafka](https://github.com/0voice/learning_mind_map/blob/main/%E9%AB%98%E5%90%9E%E5%90%90%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%20Kafka.pdf)
 
 ## 🍜 DPDK
 
@@ -103,3 +122,12 @@
 ## 🥡 音视频开发
 
 * [音视频流媒体开发知识归纳导图](https://github.com/0voice/learning_mind_map/blob/main/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%B5%81%E5%AA%92%E4%BD%93%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E5%BD%92%E7%BA%B3%E5%AF%BC%E5%9B%BE.png)
+
+## 🥮 云原生
+
+* [Docker命令](https://github.com/0voice/learning_mind_map/blob/main/Docker%E5%91%BD%E4%BB%A4.pdf)
+
+* [Kubernetes知识点](https://github.com/0voice/learning_mind_map/blob/main/Kubernetes.pdf)
+
+* [Kubetcl命令](https://github.com/0voice/learning_mind_map/blob/main/Kubetcl%E5%91%BD%E4%BB%A4.pdf)
+
