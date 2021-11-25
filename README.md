@@ -126,6 +126,8 @@
 
 * [MySQL索引](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E7%B4%A2%E5%BC%95.pdf)
 
+* [Mysql索引优化](https://github.com/0voice/learning_mind_map/blob/main/mysql%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96.jpg)
+
 * [Mysql性能调优思路](https://github.com/0voice/learning_mind_map/blob/main/mysql%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E6%80%9D%E8%B7%AF.pdf)
 
 * [MySQL全面优化思路](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E5%85%A8%E9%9D%A2%E4%BC%98%E5%8C%96%E6%80%9D%E8%B7%AF.pdf)
