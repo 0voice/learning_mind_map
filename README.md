@@ -87,6 +87,8 @@
 
 * [数据结构概述](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%A6%82%E8%BF%B0.pdf)
 
+* [线性表](https://github.com/0voice/learning_mind_map/blob/main/%E7%BA%BF%E6%80%A7%E8%A1%A8.pdf)
+
 * [调度与死锁](https://github.com/0voice/learning_mind_map/blob/main/%E8%B0%83%E5%BA%A6%E4%B8%8E%E6%AD%BB%E9%94%81.pdf)
 
 * [面向对象编程](https://github.com/0voice/learning_mind_map/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B.pdf)
@@ -181,6 +183,17 @@
 
 * [Linux常用操作](https://github.com/0voice/learning_mind_map/blob/main/Linux%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.pdf)
 
+* [OS简介](https://github.com/0voice/learning_mind_map/blob/main/OS%E7%AE%80%E4%BB%8B.pdf)
+
+* [进程管理](https://github.com/0voice/learning_mind_map/blob/main/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86.pdf)
+
+* [进程调度与死锁](https://github.com/0voice/learning_mind_map/blob/main/%E8%BF%9B%E7%A8%8B%E8%B0%83%E5%BA%A6%E4%B8%8E%E6%AD%BB%E9%94%81.pdf)
+
+* [内存管理](https://github.com/0voice/learning_mind_map/blob/main/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.pdf)
+
+* [文件系统](https://github.com/0voice/learning_mind_map/blob/main/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.pdf)
+
+* [I/O设备管理](https://github.com/0voice/learning_mind_map/blob/main/I_O%E8%AE%BE%E5%A4%87%E7%AE%A1%E7%90%86.pdf)
 
 ## 🥡 音视频开发
 
