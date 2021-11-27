@@ -39,10 +39,6 @@
   
 <br>  
 
-## 🔍 [【查漏补缺】晋升 Linux C/C++后端服务器架构开发 岗位，你还需要掌握哪些？](https://github.com/0voice/learning_mind_map/blob/main/Linux%20C_C%2B%2B%E5%90%8E%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E6%9E%84%E5%BC%80%E5%8F%91.pdf)
-
-<br>  
-
 ## 🍘 计算机
 
 * [计算机概论](https://github.com/0voice/learning_mind_map/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A6%82%E8%AE%BA.pdf)
