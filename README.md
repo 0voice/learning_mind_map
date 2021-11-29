@@ -79,6 +79,8 @@
 
 * [C++面向对象](https://github.com/0voice/learning_mind_map/blob/main/C%2B%2B%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.pdf)
 
+* [数据结构和算法](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.pdf)
+
 * [数据结构与算法内容梳理](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%86%85%E5%AE%B9%E6%A2%B3%E7%90%86.pdf)
 
 * [数据结构概述](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%A6%82%E8%BF%B0.pdf)
