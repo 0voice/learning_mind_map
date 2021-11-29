@@ -219,7 +219,7 @@
 
 ## 联系专栏
 
-#### 每天晚上8点【免费技术直播】：分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。<br>
+#### 每天晚上8点【免费技术直播】：分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容。<br>
 
 #### 关注微信公众号【后台服务架构师】——【联系我们】（备注github直播链接），获取直播链接！
 
