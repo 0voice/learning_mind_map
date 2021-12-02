@@ -101,6 +101,8 @@
 
 * [分布式锁实现方式](https://github.com/0voice/learning_mind_map/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F.pdf)
 
+* [分布式实战](https://github.com/0voice/learning_mind_map/blob/main/%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9E%E6%88%98.pdf)
+
 * [socket编程](https://github.com/0voice/learning_mind_map/blob/main/socket%E7%BC%96%E7%A8%8B.pdf)
 
 * [传输层协议之TCP](https://github.com/0voice/learning_mind_map/blob/main/%E4%BC%A0%E8%BE%93%E5%B1%82%E5%8D%8F%E8%AE%AE%E4%B9%8BTCP.pdf)
@@ -123,6 +125,8 @@
 * [数据库系统](https://github.com/0voice/learning_mind_map/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F.png)
 
 * [MySQL知识点归纳](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E7%9F%A5%E8%AF%86%E7%82%B9%E5%BD%92%E7%BA%B3.pdf)
+
+* [MySQL全面功课](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E5%85%A8%E9%9D%A2%E5%8A%9F%E8%AF%BE.pdf)
 
 * [MySQL索引](https://github.com/0voice/learning_mind_map/blob/main/MySQL%E7%B4%A2%E5%BC%95.pdf)
 
