@@ -1,4 +1,4 @@
-# 🍱 “干饭人” --- 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等等
+# 🍱 “干饭人” --- 2024年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等等
 
 <div align=center>
   
@@ -221,10 +221,15 @@
 
 * [Kubetcl命令](https://github.com/0voice/learning_mind_map/blob/main/Kubetcl%E5%91%BD%E4%BB%A4.pdf)
 
-## 联系专栏
+<br/>
+<br/>
+<h3 >零领工作</h3> 
 
-#### 每天晚上8点【免费技术直播】：分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容。<br>
+---
 
-#### 关注微信公众号【后台服务架构师】👉【联系我们】（备注github直播链接），获取直播链接！
+##### 实时提供，每周发布北京，上海，广州，深圳，杭州，南京，合肥，武汉，长沙，重庆，成都，西安，厦门的c/c++，golang方向的招聘岗位信息。 包含校招，社招，实习岗位， 面经，八股，简历
 
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
+<img src="https://img.0voice.com/public/0e59910091576beaebe20f303357edf7.jpg" alt="零领工作" style="width:300px;height:300px;">
+
+<br/>
+<br/>
